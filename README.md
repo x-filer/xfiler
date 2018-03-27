@@ -1,5 +1,5 @@
 # X-Filer
-An file server writing by golang 
+An file server writing by golang.
 
 Features:
 1. OIDC(dex) auth.
